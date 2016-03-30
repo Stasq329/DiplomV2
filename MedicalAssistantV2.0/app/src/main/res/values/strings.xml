@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedicalHelper</string>
+    <string name="etName"></string>
+    <string name="btnLogin">Login</string>
+    <string name="Hello">Добро Пожаловать:</string>
+    <string name="intro">Press the button to speak!</string>
+    <string name="speech">Speak now!</string>
+    <string name="word_intro">Suggested words&#8230;</string>
+    <string name="action_settings">О программе</string>
+    <string name="Vithov">Вызов 103</string>
+    <string name="action_settings2">Добавить нового пациента</string>
+</resources>

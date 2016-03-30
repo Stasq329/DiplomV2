@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_e7d571d418c4961d1529b2c0ce0748e36ab10c0e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Randy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_67cf167c8021c99f6e69cb86646111c1c2b8670f.jar" />
+    </item>
+    <item
+        jar="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_3d04e19c015d7b114c6222545f4ace002bce9a90.jar" />
+    </item>
+    <item
+        jar="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_8160f14fca2ef1a7e57680e66935f1c10fcd4910.jar" />
+    </item>
+    <item
+        jar="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_ece4d2cdeb81dc90e2c422d57bb60f61426a99bf.jar" />
+    </item>
+    <item
+        jar="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\ProjectAndroid\MedicalAssistantV2.0\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_5d1fc06b05993cc522f55ffa2824a87065a9ebb2.jar" />
+    </item>
+
+</items>
